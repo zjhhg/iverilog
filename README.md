@@ -1,6 +1,6 @@
 # The ICARUS Verilog Compilation System
 
-Copyright 2000-2019 Stephen Williams
+Copyright 2000-2019 Stephen Williams。
 
 
 ## What is ICARUS Verilog?
